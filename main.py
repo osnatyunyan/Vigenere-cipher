@@ -9,3 +9,4 @@ def main():
         key=input("please write Encryption key- ")
         file=input("please write name of file- ")
         print (d(key,file))
+main()
