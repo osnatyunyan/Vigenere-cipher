@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  6 17:32:26 2020
-Student: osnat yunyan
-ID: 315773762
-Assignment no. 4
-Program: vigenere.py 
-@author: osnat
-"""
+
 
 def add_letters(s,t):
     """The function receives two strings. If the two strings are one length 
